@@ -6,4 +6,4 @@ A simple, fast and easy to use DD TUI for UNIX like systems written in bash
 # ETA wen?
 give me like a few days and theres gonna be SOMETHING.
 # Usage
-dd-tui <arguments>
+"dd-tui <arguments>"
